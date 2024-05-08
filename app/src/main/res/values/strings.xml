@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HOME</string>
+    <string name="cari_alamat">CARI ALAMAT</string>
+    <string name="kirim_sms">KIRIM SMS</string>
+    <string name="masukkan_nomor_telephone">Masukkan Nomor Telephone</string>
+    <string name="masukkan_alamat">Masukkan Alamat</string>
+</resources>
